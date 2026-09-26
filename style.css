@@ -308,7 +308,17 @@ html, body {
 }
 
 @media (prefers-color-scheme: dark) {
-  :root { --bg: #221c14; --card: #322a1e; --shadow: rgba(0,0,0,0.5); --ink: #f3e9d2; }
-  .legend .chip { background: #3d3322; }
-  .lyric-caption { color: #d8c9a3; }
+  :root:not([data-theme="light"]) {
+    --bg: #221c14; --card: #322a1e; --shadow: rgba(0,0,0,0.5); --ink: #f3e9d2;
+    color-scheme: dark;
+  }
+  :root:not([data-theme="light"]) .legend .chip { background: #3d3322; }
+  :root:not([data-theme="light"]) .lyric-caption { color: #d8c9a3; }
 }
+
+:root[data-theme="dark"] {
+  --bg: #221c14; --card: #322a1e; --shadow: rgba(0,0,0,0.5); --ink: #f3e9d2;
+  color-scheme: dark;
+}
+:root[data-theme="dark"] .legend .chip { background: #3d3322; }
+:root[data-theme="dark"] .lyric-caption { color: #d8c9a3; }
