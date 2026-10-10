@@ -94,6 +94,190 @@
       ],
     },
     {
+      id: "ciranda",
+      title: "Ciranda Cirandinha",
+      emoji: "💃",
+      kind: "cantiga",
+      lyrics: [
+        "Ciranda, cirandinha",
+        "Vamos todos cirandar",
+        "Vamos dar a meia-volta",
+        "Volta e meia vamos dar",
+      ],
+      notes: [
+        [2,1],[2,1],[3,1],[3,1],[4,1],[4,1],[3,2],
+        [2,1],[2,1],[1,1],[1,1],[0,1],[0,1],[1,2],
+        [2,1],[3,1],[4,1],[3,1],[2,1],[1,1],[0,2],
+        [2,1],[3,1],[4,1],[3,1],[2,1],[1,1],[0,3],
+      ],
+    },
+    {
+      id: "terezinha",
+      title: "Terezinha de Jesus",
+      emoji: "👒",
+      kind: "cantiga",
+      lyrics: [
+        "Terezinha de Jesus",
+        "De uma queda foi ao chão",
+        "Acudiram três cavalheiros",
+        "Todos três chapéu na mão",
+      ],
+      notes: [
+        [0,1],[1,1],[2,1],[2,1],[1,1],[0,2],
+        [2,1],[3,1],[4,1],[4,1],[3,1],[2,2],
+        [4,1],[4,1],[3,1],[2,1],[1,1],[0,2],
+        [0,1],[1,1],[2,1],[1,1],[0,3],
+      ],
+    },
+    {
+      id: "barata",
+      title: "A Barata",
+      emoji: "🪳",
+      kind: "cantiga",
+      lyrics: [
+        "A barata diz que tem",
+        "Sete saias de filó",
+        "É mentira da barata",
+        "Ela tem é uma só",
+      ],
+      notes: [
+        [4,1],[4,1],[4,1],[3,1],[2,2],
+        [2,1],[2,1],[2,1],[1,1],[0,2],
+        [4,1],[4,1],[3,1],[2,2],
+        [0,1],[0,1],[1,1],[2,1],[0,3],
+      ],
+    },
+    {
+      id: "boi",
+      title: "Boi da Cara Preta",
+      emoji: "🐂",
+      kind: "cantiga",
+      lyrics: [
+        "Boi, boi, boi",
+        "Boi da cara preta",
+        "Pega essa criança",
+        "Que tem medo de careta",
+      ],
+      notes: [
+        [4,2],[4,2],[4,2],
+        [3,1],[2,1],[1,1],[0,3],
+        [2,1],[3,1],[4,1],[3,2],
+        [2,1],[1,1],[0,3],
+      ],
+    },
+    {
+      id: "marcha",
+      title: "Marcha Soldado",
+      emoji: "🪖",
+      kind: "cantiga",
+      lyrics: [
+        "Marcha, soldado",
+        "Cabeça de papel",
+        "Se não marchar direito",
+        "Vai preso pro quartel",
+      ],
+      notes: [
+        [0,1],[0,1],[2,1],[2,1],[4,2],
+        [4,1],[3,1],[2,1],[1,1],[0,2],
+        [2,1],[2,1],[1,1],[1,1],[0,2],
+        [4,1],[3,1],[2,1],[1,1],[0,3],
+      ],
+    },
+    {
+      id: "cravo",
+      title: "O Cravo e a Rosa",
+      emoji: "🌹",
+      kind: "cantiga",
+      lyrics: [
+        "O cravo brigou com a rosa",
+        "Debaixo de uma sacada",
+        "O cravo saiu ferido",
+        "E a rosa despedaçada",
+      ],
+      notes: [
+        [0,1],[1,1],[2,1],[3,1],[4,2],
+        [4,1],[3,1],[2,1],[1,1],[0,2],
+        [2,1],[2,1],[3,1],[3,1],[4,2],
+        [3,1],[2,1],[1,1],[0,2],
+      ],
+    },
+    {
+      id: "pirulito",
+      title: "Pirulito que Bate Bate",
+      emoji: "🍭",
+      kind: "cantiga",
+      lyrics: [
+        "Pirulito que bate, bate",
+        "Pirulito que já bateu",
+        "Quem gosta de mim é ela",
+        "Quem gosta dela sou eu",
+      ],
+      notes: [
+        [2,1],[2,1],[2,1],[2,1],[1,2],
+        [2,1],[2,1],[2,1],[2,1],[0,2],
+        [4,1],[3,1],[2,1],[1,1],[2,2],
+        [1,1],[0,1],[1,1],[2,1],[0,2],
+      ],
+    },
+    {
+      id: "borboletinha",
+      title: "Borboletinha",
+      emoji: "🦋",
+      kind: "cantiga",
+      lyrics: [
+        "Borboletinha tá na cozinha",
+        "Fazendo chocolate pra madrinha",
+        "Poti, poti, perna de pau",
+        "Olha a menina fazendo cocau",
+      ],
+      notes: [
+        [4,1],[4,1],[5,1],[5,1],[4,2],
+        [3,1],[3,1],[2,1],[2,1],[1,2],
+        [2,1],[2,1],[3,1],[3,1],[2,2],
+        [1,1],[1,1],[0,1],[0,1],[0,2],
+      ],
+    },
+    {
+      id: "sapocururu",
+      title: "Sapo Cururu",
+      emoji: "🐸",
+      kind: "cantiga",
+      lyrics: [
+        "Sapo cururu na beira do rio",
+        "Quando o sapo canta, ó maninha",
+        "Ele diz que tem",
+        "Frio!",
+      ],
+      notes: [
+        [0,1],[2,1],[4,1],[4,1],[2,1],[0,2],
+        [0,1],[2,1],[4,1],[5,1],[4,2],
+        [3,1],[2,1],[1,1],[0,2],
+        [0,3],
+      ],
+    },
+    {
+      id: "palmas",
+      title: "Palma, Palma, Palma",
+      emoji: "👏",
+      kind: "brincadeira",
+      lyrics: [
+        "Palma, palma, palma! 👏",
+        "Pé, pé, pé! 🦶",
+        "Roda, roda, roda... 🌀",
+        "E... caiuuu! 🎉",
+      ],
+      notes: [
+        [7,1,"clap"],[7,1,"clap"],[7,1,"clap"],
+        [0,1,"stomp"],[0,1,"stomp"],[0,1,"stomp"],
+        [1,0.5,"spin"],[3,0.5,"spin"],[5,0.5,"spin"],[7,0.5,"spin"],
+        [0,3,"fall"],
+        [7,1,"clap"],[7,1,"clap"],[7,1,"clap"],
+        [0,1,"stomp"],[0,1,"stomp"],[0,1,"stomp"],
+        [1,0.5,"spin"],[3,0.5,"spin"],[5,0.5,"spin"],[7,0.5,"spin"],
+        [0,3,"fall"],
+      ],
+    },
+    {
       id: "hosana",
       title: "Hosana",
       emoji: "🙌",
@@ -110,6 +294,15 @@
       ],
     },
   ];
+
+  // Textos/emojis para os passos especiais de "ação" (palma, pé, roda, caiu)
+  const ACTION_EMOJI = { clap: "👏", stomp: "🦶", spin: "🌀", fall: "🎉" };
+  const ACTION_CAPTION = {
+    clap: "Palma, palma, palma! 👏",
+    stomp: "Pé, pé, pé! 🦶",
+    spin: "Roda, roda, roda... 🌀",
+    fall: "E... caiuuu! 🎊",
+  };
 
   // ---------------------------------------------------------------
   // 3) Áudio (sintetizado — sem arquivos externos)
@@ -183,6 +376,52 @@
     });
   }
 
+  // som de palma (ruído curto filtrado)
+  function playClap() {
+    if (muted) return;
+    ensureAudio();
+    const t0 = audioCtx.currentTime;
+    const bufSize = Math.floor(audioCtx.sampleRate * 0.06);
+    const buffer = audioCtx.createBuffer(1, bufSize, audioCtx.sampleRate);
+    const data = buffer.getChannelData(0);
+    for (let i = 0; i < bufSize; i++) data[i] = (Math.random() * 2 - 1) * (1 - i / bufSize);
+    const noise = audioCtx.createBufferSource();
+    noise.buffer = buffer;
+    const bp = audioCtx.createBiquadFilter();
+    bp.type = "bandpass";
+    bp.frequency.value = 2200;
+    bp.Q.value = 0.8;
+    const g = audioCtx.createGain();
+    g.gain.setValueAtTime(0.0001, t0);
+    g.gain.exponentialRampToValueAtTime(0.5, t0 + 0.004);
+    g.gain.exponentialRampToValueAtTime(0.0001, t0 + 0.08);
+    noise.connect(bp).connect(g).connect(masterGain);
+    noise.start(t0);
+  }
+
+  // som de batida de pé (thump grave)
+  function playStomp() {
+    if (muted) return;
+    ensureAudio();
+    const t0 = audioCtx.currentTime;
+    const osc = audioCtx.createOscillator();
+    osc.type = "sine";
+    osc.frequency.setValueAtTime(130, t0);
+    osc.frequency.exponentialRampToValueAtTime(55, t0 + 0.15);
+    const g = audioCtx.createGain();
+    g.gain.setValueAtTime(0.0001, t0);
+    g.gain.exponentialRampToValueAtTime(0.8, t0 + 0.01);
+    g.gain.exponentialRampToValueAtTime(0.0001, t0 + 0.2);
+    osc.connect(g).connect(masterGain);
+    osc.start(t0);
+    osc.stop(t0 + 0.22);
+  }
+
+  function playAction(action) {
+    if (action === "clap") playClap();
+    else if (action === "stomp" || action === "fall") playStomp();
+  }
+
   // ---------------------------------------------------------------
   // 4) DOM / UI
   // ---------------------------------------------------------------
@@ -200,6 +439,7 @@
   const freeBtn = document.getElementById("freeBtn");
   const muteBtn = document.getElementById("muteBtn");
   const cantigasRow = document.getElementById("cantigasRow");
+  const brincadeiraRow = document.getElementById("brincadeiraRow");
   const gospelRow = document.getElementById("gospelRow");
   const toastEl = document.getElementById("toast");
   const confettiLayer = document.getElementById("confettiLayer");
@@ -229,15 +469,15 @@
 
   function buildSongCard(song) {
     const card = document.createElement("button");
-    card.className = "song-card" + (song.kind === "gospel" ? " gospel" : "");
+    card.className = "song-card" + (song.kind !== "cantiga" ? " " + song.kind : "");
     card.innerHTML = `<span class="emoji">${song.emoji}</span><span class="title">${song.title}</span>`;
     card.addEventListener("click", () => selectSong(song));
     card.dataset.id = song.id;
     return card;
   }
+  const SONG_ROWS = { cantiga: cantigasRow, brincadeira: brincadeiraRow, gospel: gospelRow };
   SONGS.forEach((song) => {
-    const row = song.kind === "gospel" ? gospelRow : cantigasRow;
-    row.appendChild(buildSongCard(song));
+    SONG_ROWS[song.kind].appendChild(buildSongCard(song));
   });
 
   // ---------------------------------------------------------------
@@ -245,13 +485,21 @@
   // ---------------------------------------------------------------
   let currentSong = null;
   let mode = "free"; // 'free' | 'listen' | 'practice'
-  let slow = false;
   let playToken = 0; // incrementado para cancelar reproduções em andamento
   let expectedIndex = null; // índice esperado no modo "Tocar"
+  let expectedAction = null; // ação especial esperada (palma/pé/...) no modo "Tocar"
   let onCorrectTap = null;
 
+  // Três velocidades para dar tempo de a criança aprender cada nota
+  const SPEEDS = [
+    { key: "normal", ms: 480, label: "🐇<span>Normal</span>" },
+    { key: "slow", ms: 750, label: "🐢<span>Devagar</span>" },
+    { key: "vslow", ms: 1100, label: "🐌<span>Muito lento</span>" },
+  ];
+  let speedIndex = 0;
+
   function beatMs() {
-    return slow ? 750 : 480;
+    return SPEEDS[speedIndex].ms;
   }
 
   function showNote(index) {
@@ -262,6 +510,16 @@
     noteNameEl.style.color = note.hex;
     noteNameEl.classList.remove("pop");
     // reflow para reiniciar a animação
+    void noteNameEl.offsetWidth;
+    noteNameEl.classList.add("pop");
+  }
+
+  function showAction(action) {
+    noteNameEl.textContent = ACTION_EMOJI[action];
+    noteDisplayEl.style.background = "";
+    noteNameEl.style.background = "#ffe9a8";
+    noteNameEl.style.color = "#7a3ea1";
+    noteNameEl.classList.remove("pop");
     void noteNameEl.offsetWidth;
     noteNameEl.classList.add("pop");
   }
@@ -283,9 +541,9 @@
     setToast._t = setTimeout(() => (toastEl.hidden = true), ms);
   }
 
-  function launchConfetti() {
+  function launchConfetti(count = 60) {
     const colors = NOTES.map((n) => n.hex);
-    for (let i = 0; i < 60; i++) {
+    for (let i = 0; i < count; i++) {
       const piece = document.createElement("div");
       piece.className = "confetti-piece";
       piece.style.left = Math.random() * 100 + "vw";
@@ -303,14 +561,21 @@
   // ---------------------------------------------------------------
   function onBarTapped(index) {
     ensureAudio();
+    const isExpectedAction = mode === "practice" && expectedIndex === index && expectedAction;
     playTone(NOTES[index].freq);
-    showNote(index);
+    if (isExpectedAction) {
+      showAction(expectedAction);
+      playAction(expectedAction);
+    } else {
+      showNote(index);
+    }
     flashBar(index, "playing", 220);
 
     if (mode === "practice" && expectedIndex === index && onCorrectTap) {
       const cb = onCorrectTap;
       onCorrectTap = null;
       expectedIndex = null;
+      expectedAction = null;
       flashBar(index, "correct", 400);
       cb();
     }
@@ -359,13 +624,20 @@
     let played = 0;
     let t = 0;
 
-    song.notes.forEach(([idx, dur], i) => {
+    song.notes.forEach(([idx, dur, action], i) => {
       setTimeout(() => {
         if (token !== playToken) return;
         playTone(NOTES[idx].freq, (dur * beatMs()) / 1000 + 0.15);
-        showNote(idx);
         flashBar(idx, "playing", dur * beatMs() * 0.9);
-        lyricCaptionEl.textContent = song.lyrics[phraseIndexForNote(song, i)];
+        if (action) {
+          showAction(action);
+          playAction(action);
+          lyricCaptionEl.textContent = ACTION_CAPTION[action];
+          if (action === "fall") launchConfetti(18);
+        } else {
+          showNote(idx);
+          lyricCaptionEl.textContent = song.lyrics[phraseIndexForNote(song, i)];
+        }
         played += dur;
         progressBar.style.width = Math.round((played / total) * 100) + "%";
       }, t);
@@ -403,11 +675,12 @@
         finishPlayback(true);
         return;
       }
-      const [idx, dur] = song.notes[step];
-      lyricCaptionEl.textContent = song.lyrics[phraseIndexForNote(song, step)];
+      const [idx, dur, action] = song.notes[step];
+      lyricCaptionEl.textContent = action ? ACTION_CAPTION[action] : song.lyrics[phraseIndexForNote(song, step)];
       clearBarStates();
       flashBar(idx, "waiting");
       expectedIndex = idx;
+      expectedAction = action || null;
       onCorrectTap = () => {
         if (token !== playToken) return;
         played += dur;
@@ -424,6 +697,7 @@
     mode = "free";
     setActiveModeButtons();
     expectedIndex = null;
+    expectedAction = null;
     onCorrectTap = null;
     progressBar.style.width = "100%";
     lyricCaptionEl.textContent = fromPractice
@@ -438,6 +712,7 @@
     playToken += 1;
     mode = "free";
     expectedIndex = null;
+    expectedAction = null;
     onCorrectTap = null;
     clearBarStates();
     progressWrap.hidden = true;
@@ -470,8 +745,10 @@
     lyricCaptionEl.textContent = "Modo livre: toque nas teclas coloridas!";
   });
   speedBtn.addEventListener("click", () => {
-    slow = !slow;
-    speedBtn.innerHTML = slow ? "🐇<span>Normal</span>" : "🐢<span>Devagar</span>";
+    speedIndex = (speedIndex + 1) % SPEEDS.length;
+    speedBtn.innerHTML = SPEEDS[(speedIndex + 1) % SPEEDS.length].label;
+    const current = SPEEDS[speedIndex];
+    setToast(`Velocidade: ${current.key === "normal" ? "Normal 🐇" : current.key === "slow" ? "Devagar 🐢" : "Muito lento 🐌"}`, 1200);
   });
   muteBtn.addEventListener("click", () => {
     muted = !muted;

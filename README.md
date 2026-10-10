@@ -37,15 +37,16 @@ offline depois de carregado uma vez (não usa arquivos de áudio externos).
   sem pressa; quando ela acerta, a tecla soa, fica verde de "sucesso" e o
   app segue para a próxima nota. Ao terminar a música: confete e um
   "muito bem!" 🎉
-- **Devagar / Normal** 🐢🐇: deixa a música mais lenta para facilitar o
-  aprendizado.
+- **Velocidade** 🐇🐢🐌: botão com 3 níveis (Normal → Devagar → **Muito
+  Lento**), para dar bastante tempo entre uma nota e outra enquanto a
+  criança ainda está aprendendo onde fica cada tecla.
 - **Livre** 🎹: sai do modo música e volta ao xilofone livre.
 - Botão de **som** 🔊/🔇 grande no topo.
 
 Todos os botões são grandes, com ícones e poucas palavras, pensados para
 uma criança de 5 anos usar sozinha.
 
-## Repertório incluído
+## Repertório incluído (15 músicas)
 
 **Cantigas de roda / infantis** (todas adaptadas para caber só nas 8 notas
 naturais do xilofone, sem sustenidos/bemóis):
@@ -55,6 +56,22 @@ naturais do xilofone, sem sustenidos/bemóis):
 - Cai Cai Balão
 - Escravos de Jó (usada como "escala musical" de subir e descer — ótima
   para fixar a ordem das notas)
+- Ciranda Cirandinha
+- Terezinha de Jesus
+- A Barata
+- Boi da Cara Preta
+- Marcha Soldado
+- O Cravo e a Rosa
+- Pirulito que Bate Bate
+- Borboletinha
+- Sapo Cururu
+
+**Brincadeira** (música de movimento/percussão corporal):
+
+- **Palma, Palma, Palma** 👏🦶 — a criança bate palma 3x, bate o pé 3x, roda
+  e "cai"; cada passo ainda toca uma tecla real do xilofone (para seguir
+  reforçando as notas), mas também mostra um emoji gigante (👏/🦶/🌀/🎉) e
+  toca um som de palma/batida de pé de verdade, sincronizado com a letra.
 
 **Louvor / gospel:**
 

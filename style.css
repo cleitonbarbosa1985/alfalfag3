@@ -245,6 +245,7 @@ html, body {
   color: #7a3ea1;
 }
 .gospel-title { color: #b5850a; }
+.brincadeira-title { color: #1b8a6b; }
 
 .song-row {
   display: flex;
@@ -271,6 +272,8 @@ html, body {
 .song-card:active { transform: translateY(3px); }
 .song-card.gospel { border-color: #f0d060; }
 .song-card.gospel.selected { border-color: #d69f00; background: #fff8e0; }
+.song-card.brincadeira { border-color: #8fe0c6; }
+.song-card.brincadeira.selected { border-color: #1b8a6b; background: #e3fbf2; }
 
 .toast {
   position: fixed;
